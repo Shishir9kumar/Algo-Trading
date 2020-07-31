@@ -1,2 +1,2 @@
 # Algo-Trading
-Some of the know Quant Strategies in Python
+Some of the well known Quant Strategies in Python
